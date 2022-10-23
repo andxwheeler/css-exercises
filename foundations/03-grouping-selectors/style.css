@@ -1,0 +1,14 @@
+.blackBack {
+  background-color: #000000;
+  color: #ffff
+}
+
+.yellowBack {
+  background-color: #ffff00;
+}
+
+.btn {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+  border: 2px solid #cecbcb;
+}
